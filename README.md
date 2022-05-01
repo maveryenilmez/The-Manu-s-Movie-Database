@@ -12,5 +12,5 @@ Afficher les données sur la page web avec une fonction javascript tout en respe
 
 
 <h4>L'aperçu:</h4>
-...loading
+<img src="MMDB.png" alt="movie poster">
 
